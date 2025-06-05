@@ -1,0 +1,6 @@
+build/
+cmake-build/
+meson-build/
+*.o
+LABO5
+cjson.pc
