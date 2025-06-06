@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 99)
 
 include_directories(src)
 
-add_executable(labo5
+add_executable(LABO5
     src/main.c
     src/json.c
 )
